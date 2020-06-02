@@ -1,0 +1,40 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="DoobieConvertors._" />
+          <option value="com.avast.cactus.bytes._" />
+          <option value="com.avast.cactus.v3._" />
+          <option value="com.avast.clients.scavenger.http.HttpScavengerClientConversions._" />
+          <option value="com.avast.viruslab.detections.client.Converters._" />
+          <option value="com.avast.viruslab.detections.client.common.CommonConverters._" />
+          <option value="com.avast.viruslab.detections.client.common.Converters._" />
+          <option value="com.avast.viruslab.detections.client.converters._" />
+          <option value="com.avast.viruslab.detections.client.el.ElConverters._" />
+          <option value="com.avast.viruslab.detections.client.el.elConverters._" />
+          <option value="com.avast.viruslab.detections.server.common.RequestContext" />
+          <option value="com.avast.viruslab.detections.server.common.persistance.DoobieConvertors._" />
+          <option value="com.avast.viruslab.service.grpc.CactusConverters._" />
+          <option value="io.circe.generic.auto._" />
+          <option value="org.lyranthe.fs2_grpc.java_runtime.implicits._" />
+        </array>
+      </option>
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Rust">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

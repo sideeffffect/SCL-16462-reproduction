@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="424f7384-a7a8-460f-9243-11a76f04b26d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SCL-16462-reproduction-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/SCL-16462-reproduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scl16462/Main.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cluO83D9ImwuXGVFlhDQhL4BCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424f7384-a7a8-460f-9243-11a76f04b26d" name="Default Changelist" comment="" />
+      <created>1591115465213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591115465213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1178" y="391" width="1162" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591115677246">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="1178" y="391" width="1162" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115677246" />
+    <state width="3390" height="393" key="GridCell.Tab.0.bottom" timestamp="1591115682114">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="3390" height="393" key="GridCell.Tab.0.bottom/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115682114" />
+    <state width="3390" height="393" key="GridCell.Tab.0.center" timestamp="1591115682114">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="3390" height="393" key="GridCell.Tab.0.center/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115682114" />
+    <state width="3390" height="393" key="GridCell.Tab.0.left" timestamp="1591115682114">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="3390" height="393" key="GridCell.Tab.0.left/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115682114" />
+    <state width="3390" height="393" key="GridCell.Tab.0.right" timestamp="1591115682114">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state width="3390" height="393" key="GridCell.Tab.0.right/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115682114" />
+    <state x="1231" y="368" width="977" height="737" key="SettingsEditor" timestamp="1591115856339">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="1231" y="368" width="977" height="737" key="SettingsEditor/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115856339" />
+    <state x="1437" y="512" width="555" height="449" key="chooseDestDirectoryDialog" timestamp="1591115650914">
+      <screen x="0" y="27" width="3440" height="1413" />
+    </state>
+    <state x="1437" y="512" width="555" height="449" key="chooseDestDirectoryDialog/672.1440.1920.1080/0.27.3440.1413@0.27.3440.1413" timestamp="1591115650914" />
+  </component>
+</project>
